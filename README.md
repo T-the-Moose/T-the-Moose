@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-the-Moose&show_icons=true&theme=radical)
-
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate developer from France</h3>
 
