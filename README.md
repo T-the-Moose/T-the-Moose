@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-the-moose&show_icons=true&locale=en&layout=compact" alt="t-the-moose" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-the-moose&show_icons=true&locale=en" alt="t-the-moose" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-the-moose&show_icons=true&theme=radical&locale=fr" alt="t-the-moose" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-the-moose&" alt="t-the-moose" /></p>
