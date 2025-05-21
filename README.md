@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-the-moose&label=Profile%20views&color=0e75b6&style=flat" alt="t-the-moose" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-the-moose&label=Profile%20views&color=0e75b6&style=flat" alt="t-the-moose" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=t-the-moose&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **React native & Symfony**
 
