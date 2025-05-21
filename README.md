@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-the-moose&label=Profile%20views&color=0e75b6&style=flat" alt="t-the-moose" /> </p>
 
