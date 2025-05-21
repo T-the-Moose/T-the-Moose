@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
+<h1 align="center">Hi, I'm Tony 👋</h1>
 <h3 align="center">A developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-the-moose&label=Profile%20views&color=0e75b6&style=flat" alt="t-the-moose" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?T-the-Moose)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-the-moose&label=Profile%20views&color=0e75b6&style=flat" alt="t-the-moose" /> </p>
 
 - 🌱 I’m currently learning **React native & Symfony**
 
